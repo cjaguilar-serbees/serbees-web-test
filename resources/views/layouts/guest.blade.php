@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+{{-- <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
     <meta charset="utf-8">
@@ -18,7 +18,7 @@
     <!-- Styles -->
     <link rel="stylesheet" href="{{ asset('css/footer.css') }}" type="text/css">
     <link rel="stylesheet" href="{{ asset('css/header.css') }}" type="text/css">
-   
+    {{-- <link rel="stylesheet" href="{{ asset('css/dashboardpage.css') }}" type="text/css"> Does not exists --}}
     <link rel="stylesheet" href="{{ asset('css/faq.css') }}" type="text/css">
     <link rel="stylesheet" href="{{ asset('css/registration.css') }}" type="text/css">
     <link href="https://use.fontawesome.com/releases/v5.0.4/css/all.css" rel="stylesheet">
